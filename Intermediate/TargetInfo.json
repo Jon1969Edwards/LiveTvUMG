@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LiveTvUMG",
+			"Path": "C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Source\\LiveTvUMG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LiveTvUMGEditor",
+			"Path": "C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Source\\LiveTvUMGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

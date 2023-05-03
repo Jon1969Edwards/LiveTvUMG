@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\bovve\\documents\\unreal projects\\livetvumg\\source\\livetvumg\\livetvumg.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\bovve\\documents\\unreal projects\\livetvumg\\intermediate\\build\\win64\\livetvumgeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\bovve\\documents\\unreal projects\\livetvumg\\intermediate\\build\\win64\\unrealeditor\\development\\livetvumg\\definitions.livetvumg.h",
+            "c:\\users\\bovve\\documents\\unreal projects\\livetvumg\\source\\livetvumg\\livetvumg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

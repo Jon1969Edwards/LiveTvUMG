@@ -1,0 +1,2 @@
+/.vs/LiveTvUMG/v17/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+/Intermediate/ProjectFiles/UE5.vcxproj filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LiveTvUMG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\bovve\Documents\Unreal Projects\LiveTvUMG\Intermediate\Build\Win64\LiveTvUMGEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\bovve\Documents\Unreal Projects\LiveTvUMG\Intermediate\Build\Win64\UnrealEditor\Development\LiveTvUMG\LiveTvUMG.cpp.obj"
+"C:\Users\bovve\Documents\Unreal Projects\LiveTvUMG\Intermediate\Build\Win64\UnrealEditor\Development\LiveTvUMG\MyClass.cpp.obj"
+"C:\Users\bovve\Documents\Unreal Projects\LiveTvUMG\Intermediate\Build\Win64\UnrealEditor\Development\LiveTvUMG\Default.rc2.res"
+/OUT:"C:\Users\bovve\Documents\Unreal Projects\LiveTvUMG\Intermediate\Build\Win64\UnrealEditor\Development\LiveTvUMG\UnrealEditor-LiveTvUMG.lib"

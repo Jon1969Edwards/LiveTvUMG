@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Source\\LiveTvUMG\\LiveTvUMG.Build.cs",
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Plugins\\VlcMedia\\Source\\VlcMediaEditor\\VlcMediaEditor.Build.cs",
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Plugins\\VlcMedia\\Source\\VlcMedia\\VlcMedia.Build.cs",
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Plugins\\VlcMedia\\Source\\VlcMediaFactory\\VlcMediaFactory.Build.cs",
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Source\\LiveTvUMG.Target.cs",
+		"C:\\Users\\bovve\\Documents\\Unreal Projects\\LiveTvUMG\\Source\\LiveTvUMGEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
